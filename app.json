@@ -1,0 +1,18 @@
+{
+  "name": "techhacks",
+  "description": "All about hacking",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ]
+}
